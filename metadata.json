@@ -1,0 +1,6 @@
+{
+  "name": "CampusSphere ERP — College Management System",
+  "description": "One Campus. One System. Smarter Management. Comprehensive college ERP featuring Student, Faculty, and Administrator portals with integrated smart complaint resolution lifecycle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
